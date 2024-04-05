@@ -1,0 +1,5 @@
+path: /content/data/
+train: train
+val: test
+names:
+  0: stones
